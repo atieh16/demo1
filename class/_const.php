@@ -1,9 +1,9 @@
 <?php
 // Database Credentials
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'snippet');
-define('DB_USER', 'atieh');
-define('DB_PASS', '@13751375@');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASS', '');
 
 // Views stuff
 define('THEME_ID', '4');
